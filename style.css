@@ -161,3 +161,31 @@ b{
     width: 100%;
     height: 100%;
 }
+.row-2{
+    width: 100%;
+    height: 380px;
+    background: rgb(35, 6, 6);
+    display: flex;
+    justify-content: space-evenly;
+}
+.col-1{
+    margin: 0;
+    text-align: center;
+}
+.col-1 img{
+    width: 105px;
+    height: 199px;
+}
+.col-1 h4{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    padding-top: 20px;
+}
+.col-1 h5{
+    font-size: 15px;
+    width: 260px;
+    margin-top: 10px;
+    color: #e0cbc1;
+    
+}
