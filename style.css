@@ -223,3 +223,34 @@ b{
     padding-left: 15px;
     cursor: pointer;
 }
+.row3-col2{
+    height: 100%;
+    width: 56%;
+    display: flex;
+    
+}
+
+.phone1{
+  height: 100%;
+  width: 50%;
+  
+ 
+  
+  
+}
+.phone1 img{
+    width: 384px;
+    height: 489px;
+}
+.phone2{
+    height: 100%;
+    width: 50%;
+    padding-top: 100px;
+   
+   
+ }
+ .phone2 img{
+     width: 384px;
+     height: 489px;
+     
+ }
